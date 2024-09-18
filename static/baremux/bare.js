@@ -504,4 +504,4 @@
   Object.defineProperty(exports, '__esModule', { value: true });
 
 }));
-//# sourceMappingURL=bare.cjs.map
+//# sourceMappingURL=bare.js.map
